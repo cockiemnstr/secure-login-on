@@ -1,0 +1,29 @@
+{
+  "name": "secure-login-on",
+  "version": "1.0.0",
+  "description": "Secure user authentication and session management system for web applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cockiemnstr/secure-login-on"
+  },
+  "author": "cockiemnstr",
+  "license": "MIT",
+  "dependencies": {
+    "secure-login-on": "1.0.0",
+    "nft-dip-module": "1.0.0",
+    "body-parser": "1.0.0",
+    "mongoose": "1.0.0",
+    "moment": "1.0.0",
+    "webpack": "1.0.0",
+    "bluebird": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "mocha": "1.0.0",
+    "react": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "solc": "1.0.0"
+  }
+}
